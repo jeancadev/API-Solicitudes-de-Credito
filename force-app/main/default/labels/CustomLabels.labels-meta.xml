@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Credito_Capacidad_Pago_Insuficiente</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Capacidad de pago insuficiente</shortDescription>
+        <value>La cuota supera la relación cuota/ingreso permitida.</value>
+    </labels>
+    <labels>
+        <fullName>Credito_Monto_Excede_Maximo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Monto máximo excedido</shortDescription>
+        <value>El monto solicitado excede el máximo permitido.</value>
+    </labels>
+    <labels>
+        <fullName>Credito_Plazo_Excede_Maximo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Plazo máximo excedido</shortDescription>
+        <value>El plazo solicitado excede el máximo permitido.</value>
+    </labels>
+</CustomLabels>

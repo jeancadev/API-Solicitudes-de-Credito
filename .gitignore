@@ -1,0 +1,14 @@
+# Salesforce CLI local state and authentication
+.sf/
+.sfdx/
+
+# Test and tooling output
+test-results/
+coverage/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
